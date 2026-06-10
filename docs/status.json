@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-06-10 16:53:14 UTC",
+  "last_updated": "2026-06-10 19:27:24 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
     {
       "symbol": "EURUSD",
-      "price": 1.15594,
+      "price": 1.15473,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
         "trend": true,
-        "channel": true,
-        "macd": true,
+        "channel": false,
+        "macd": false,
         "mtf": true,
         "ses": false
       },
-      "conditions_met": 4
+      "conditions_met": 2
     },
     {
       "symbol": "USDJPY",
-      "price": 160.48801,
+      "price": 160.51601,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -33,7 +33,7 @@
     },
     {
       "symbol": "GBPUSD",
-      "price": 1.33921,
+      "price": 1.33733,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -47,21 +47,21 @@
     },
     {
       "symbol": "AUDUSD",
-      "price": 0.70244,
+      "price": 0.70077,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
         "trend": false,
-        "channel": false,
-        "macd": false,
+        "channel": true,
+        "macd": true,
         "mtf": true,
         "ses": false
       },
-      "conditions_met": 1
+      "conditions_met": 3
     },
     {
       "symbol": "USDCAD",
-      "price": 1.39284,
+      "price": 1.39386,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -75,73 +75,73 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.7983,
+      "price": 0.79967,
       "signal": "WAIT",
-      "direction": "BEAR",
+      "direction": "BULL",
       "conditions": {
-        "trend": false,
-        "channel": false,
+        "trend": true,
+        "channel": true,
         "macd": true,
-        "mtf": false,
+        "mtf": true,
         "ses": false
       },
-      "conditions_met": 1
+      "conditions_met": 4
     },
     {
       "symbol": "NZDUSD",
-      "price": 0.58241,
-      "signal": "WAIT",
-      "direction": "BULL",
-      "conditions": {
-        "trend": true,
-        "channel": true,
-        "macd": true,
-        "mtf": true,
-        "ses": false
-      },
-      "conditions_met": 4
-    },
-    {
-      "symbol": "EURJPY",
-      "price": 185.45399,
-      "signal": "WAIT",
-      "direction": "BULL",
-      "conditions": {
-        "trend": true,
-        "channel": true,
-        "macd": true,
-        "mtf": true,
-        "ses": false
-      },
-      "conditions_met": 4
-    },
-    {
-      "symbol": "GBPJPY",
-      "price": 214.91701,
-      "signal": "WAIT",
-      "direction": "BULL",
-      "conditions": {
-        "trend": true,
-        "channel": true,
-        "macd": true,
-        "mtf": true,
-        "ses": false
-      },
-      "conditions_met": 4
-    },
-    {
-      "symbol": "EURGBP",
-      "price": 0.86286,
+      "price": 0.58089,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
         "trend": false,
+        "channel": true,
+        "macd": true,
+        "mtf": true,
+        "ses": false
+      },
+      "conditions_met": 3
+    },
+    {
+      "symbol": "EURJPY",
+      "price": 185.289,
+      "signal": "WAIT",
+      "direction": "BULL",
+      "conditions": {
+        "trend": true,
         "channel": false,
         "macd": false,
         "mtf": true,
         "ses": false
       },
-      "conditions_met": 1
+      "conditions_met": 2
+    },
+    {
+      "symbol": "GBPJPY",
+      "price": 214.64301,
+      "signal": "WAIT",
+      "direction": "BULL",
+      "conditions": {
+        "trend": true,
+        "channel": false,
+        "macd": false,
+        "mtf": true,
+        "ses": false
+      },
+      "conditions_met": 2
+    },
+    {
+      "symbol": "EURGBP",
+      "price": 0.86319,
+      "signal": "WAIT",
+      "direction": "BULL",
+      "conditions": {
+        "trend": true,
+        "channel": true,
+        "macd": true,
+        "mtf": false,
+        "ses": false
+      },
+      "conditions_met": 3
     }
   ]
 }
