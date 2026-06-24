@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-24 10:56:07 UTC",
+  "last_updated": "2026-06-24 13:14:29 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
     {
       "symbol": "EURUSD",
-      "price": 1.13469,
+      "price": 1.13314,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -19,7 +19,7 @@
     },
     {
       "symbol": "USDJPY",
-      "price": 161.688,
+      "price": 161.748,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -33,7 +33,7 @@
     },
     {
       "symbol": "GBPUSD",
-      "price": 1.3164,
+      "price": 1.31501,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -47,7 +47,7 @@
     },
     {
       "symbol": "AUDUSD",
-      "price": 0.68927,
+      "price": 0.68932,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -61,7 +61,7 @@
     },
     {
       "symbol": "USDCAD",
-      "price": 1.42273,
+      "price": 1.42395,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -75,7 +75,7 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.81245,
+      "price": 0.81357,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -103,7 +103,7 @@
     },
     {
       "symbol": "EURJPY",
-      "price": 183.388,
+      "price": 183.24699,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -117,7 +117,7 @@
     },
     {
       "symbol": "GBPJPY",
-      "price": 212.797,
+      "price": 212.702,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -131,7 +131,7 @@
     },
     {
       "symbol": "EURGBP",
-      "price": 0.86175,
+      "price": 0.86147,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
