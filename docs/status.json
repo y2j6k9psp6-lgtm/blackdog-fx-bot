@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12 22:05:22 UTC",
+  "last_updated": "2026-07-12 23:02:51 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -19,7 +19,7 @@
     },
     {
       "symbol": "USDJPY",
-      "price": 161.722,
+      "price": 161.672,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -75,7 +75,7 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.80829,
+      "price": 0.8078,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
