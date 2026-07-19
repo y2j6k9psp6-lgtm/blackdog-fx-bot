@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 22:15:03 UTC",
+  "last_updated": "2026-07-19 23:12:46 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -19,7 +19,7 @@
     },
     {
       "symbol": "USDJPY",
-      "price": 162.40601,
+      "price": 162.353,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -61,7 +61,7 @@
     },
     {
       "symbol": "USDCAD",
-      "price": 1.402,
+      "price": 1.4018,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -75,17 +75,17 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.8075,
+      "price": 0.80694,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
         "trend": false,
-        "channel": false,
+        "channel": true,
         "macd": false,
         "mtf": true,
-        "ses": false
+        "ses": true
       },
-      "conditions_met": 1
+      "conditions_met": 3
     },
     {
       "symbol": "NZDUSD",
