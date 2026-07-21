@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21 22:15:50 UTC",
+  "last_updated": "2026-07-21 23:13:57 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -33,7 +33,7 @@
     },
     {
       "symbol": "GBPUSD",
-      "price": 1.33765,
+      "price": 1.33758,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -47,21 +47,21 @@
     },
     {
       "symbol": "AUDUSD",
-      "price": 0.70033,
+      "price": 0.70057,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
         "trend": false,
         "channel": true,
         "macd": true,
-        "mtf": true,
+        "mtf": false,
         "ses": false
       },
-      "conditions_met": 3
+      "conditions_met": 2
     },
     {
       "symbol": "USDCAD",
-      "price": 1.41065,
+      "price": 1.4107,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -75,7 +75,7 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.8127,
+      "price": 0.81308,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -89,7 +89,7 @@
     },
     {
       "symbol": "NZDUSD",
-      "price": 0.58285,
+      "price": 0.58312,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -103,7 +103,7 @@
     },
     {
       "symbol": "EURJPY",
-      "price": 186.017,
+      "price": 186.013,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -117,7 +117,7 @@
     },
     {
       "symbol": "GBPJPY",
-      "price": 218.26801,
+      "price": 218.267,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -131,7 +131,7 @@
     },
     {
       "symbol": "EURGBP",
-      "price": 0.85218,
+      "price": 0.85222,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -139,9 +139,9 @@
         "channel": true,
         "macd": false,
         "mtf": true,
-        "ses": true
+        "ses": false
       },
-      "conditions_met": 4
+      "conditions_met": 3
     }
   ]
 }
