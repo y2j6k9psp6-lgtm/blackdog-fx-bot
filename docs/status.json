@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09 22:49:49 UTC",
+  "last_updated": "2026-08-09 23:14:42 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -11,15 +11,15 @@
       "conditions": {
         "trend": true,
         "channel": true,
-        "macd": true,
+        "macd": false,
         "mtf": true,
         "ses": false
       },
-      "conditions_met": 4
+      "conditions_met": 3
     },
     {
       "symbol": "USDJPY",
-      "price": 157.763,
+      "price": 157.745,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -75,7 +75,7 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.80798,
+      "price": 0.80767,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
