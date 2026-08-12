@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 19:37:05 UTC",
+  "last_updated": "2026-08-12 20:19:49 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -19,7 +19,7 @@
     },
     {
       "symbol": "USDJPY",
-      "price": 159.483,
+      "price": 159.49699,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -33,7 +33,7 @@
     },
     {
       "symbol": "GBPUSD",
-      "price": 1.34913,
+      "price": 1.34911,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -61,7 +61,7 @@
     },
     {
       "symbol": "USDCAD",
-      "price": 1.39437,
+      "price": 1.3939,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -75,7 +75,7 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.81366,
+      "price": 0.81385,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -89,7 +89,7 @@
     },
     {
       "symbol": "NZDUSD",
-      "price": 0.58599,
+      "price": 0.58589,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -103,35 +103,35 @@
     },
     {
       "symbol": "EURJPY",
-      "price": 183.759,
+      "price": 183.77499,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
         "trend": true,
-        "channel": false,
+        "channel": true,
         "macd": true,
         "mtf": false,
-        "ses": false
+        "ses": true
       },
-      "conditions_met": 2
+      "conditions_met": 4
     },
     {
       "symbol": "GBPJPY",
-      "price": 215.155,
+      "price": 215.166,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
         "trend": true,
         "channel": false,
         "macd": true,
-        "mtf": false,
+        "mtf": true,
         "ses": false
       },
-      "conditions_met": 2
+      "conditions_met": 3
     },
     {
       "symbol": "EURGBP",
-      "price": 0.85404,
+      "price": 0.85408,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
