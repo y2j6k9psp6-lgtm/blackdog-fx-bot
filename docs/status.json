@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 21:50:23 UTC",
+  "last_updated": "2026-08-14 22:02:53 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -138,10 +138,10 @@
         "trend": true,
         "channel": true,
         "macd": true,
-        "mtf": false,
+        "mtf": true,
         "ses": false
       },
-      "conditions_met": 3
+      "conditions_met": 4
     }
   ]
 }
