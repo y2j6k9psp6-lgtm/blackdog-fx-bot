@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 21:29:21 UTC",
+  "last_updated": "2026-08-14 21:50:23 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -131,7 +131,7 @@
     },
     {
       "symbol": "EURGBP",
-      "price": 0.85483,
+      "price": 0.85477,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
