@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 09:54:18 UTC",
+  "last_updated": "2026-08-26 10:23:08 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -11,15 +11,15 @@
       "conditions": {
         "trend": false,
         "channel": true,
-        "macd": false,
+        "macd": true,
         "mtf": true,
         "ses": false
       },
-      "conditions_met": 2
+      "conditions_met": 3
     },
     {
       "symbol": "USDJPY",
-      "price": 158.967,
+      "price": 159.00999,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -33,7 +33,7 @@
     },
     {
       "symbol": "GBPUSD",
-      "price": 1.36273,
+      "price": 1.36245,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -47,7 +47,7 @@
     },
     {
       "symbol": "AUDUSD",
-      "price": 0.71824,
+      "price": 0.71839,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -61,7 +61,7 @@
     },
     {
       "symbol": "USDCAD",
-      "price": 1.3866,
+      "price": 1.38665,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -75,7 +75,7 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.80388,
+      "price": 0.804,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -89,7 +89,7 @@
     },
     {
       "symbol": "NZDUSD",
-      "price": 0.59563,
+      "price": 0.59573,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -103,7 +103,7 @@
     },
     {
       "symbol": "EURJPY",
-      "price": 185.45399,
+      "price": 185.487,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -117,7 +117,7 @@
     },
     {
       "symbol": "GBPJPY",
-      "price": 216.62801,
+      "price": 216.621,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -131,7 +131,7 @@
     },
     {
       "symbol": "EURGBP",
-      "price": 0.85607,
+      "price": 0.85624,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
