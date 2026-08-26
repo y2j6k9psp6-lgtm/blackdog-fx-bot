@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 11:22:55 UTC",
+  "last_updated": "2026-08-26 11:51:41 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -19,7 +19,7 @@
     },
     {
       "symbol": "USDJPY",
-      "price": 159.095,
+      "price": 159.127,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -33,7 +33,7 @@
     },
     {
       "symbol": "GBPUSD",
-      "price": 1.36255,
+      "price": 1.3626,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -61,7 +61,7 @@
     },
     {
       "symbol": "USDCAD",
-      "price": 1.38694,
+      "price": 1.38653,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -75,7 +75,7 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.80382,
+      "price": 0.80417,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -89,7 +89,7 @@
     },
     {
       "symbol": "NZDUSD",
-      "price": 0.59542,
+      "price": 0.59566,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -103,7 +103,21 @@
     },
     {
       "symbol": "EURJPY",
-      "price": 185.59399,
+      "price": 185.62399,
+      "signal": "WAIT",
+      "direction": "BEAR",
+      "conditions": {
+        "trend": false,
+        "channel": false,
+        "macd": false,
+        "mtf": true,
+        "ses": false
+      },
+      "conditions_met": 1
+    },
+    {
+      "symbol": "GBPJPY",
+      "price": 216.802,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -116,22 +130,8 @@
       "conditions_met": 2
     },
     {
-      "symbol": "GBPJPY",
-      "price": 216.765,
-      "signal": "WAIT",
-      "direction": "BEAR",
-      "conditions": {
-        "trend": false,
-        "channel": true,
-        "macd": true,
-        "mtf": true,
-        "ses": false
-      },
-      "conditions_met": 3
-    },
-    {
       "symbol": "EURGBP",
-      "price": 0.85617,
+      "price": 0.85614,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
