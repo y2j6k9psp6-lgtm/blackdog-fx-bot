@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-31 22:47:33 UTC",
+  "last_updated": "2026-09-01 01:25:25 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
     {
       "symbol": "EURUSD",
-      "price": 1.16184,
+      "price": 1.16171,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -19,54 +19,26 @@
     },
     {
       "symbol": "USDJPY",
-      "price": 159.767,
+      "price": 159.8,
       "signal": "WAIT",
-      "direction": "BEAR",
+      "direction": "BULL",
       "conditions": {
-        "trend": false,
-        "channel": false,
-        "macd": false,
-        "mtf": true,
-        "ses": false
-      },
-      "conditions_met": 1
-    },
-    {
-      "symbol": "GBPUSD",
-      "price": 1.35468,
-      "signal": "WAIT",
-      "direction": "BEAR",
-      "conditions": {
-        "trend": false,
-        "channel": false,
-        "macd": false,
+        "trend": true,
+        "channel": true,
+        "macd": true,
         "mtf": false,
         "ses": false
       },
-      "conditions_met": 0
+      "conditions_met": 3
     },
     {
-      "symbol": "AUDUSD",
-      "price": 0.71679,
+      "symbol": "GBPUSD",
+      "price": 1.35481,
       "signal": "WAIT",
-      "direction": "BEAR",
+      "direction": "BULL",
       "conditions": {
-        "trend": false,
+        "trend": true,
         "channel": false,
-        "macd": false,
-        "mtf": true,
-        "ses": false
-      },
-      "conditions_met": 1
-    },
-    {
-      "symbol": "USDCAD",
-      "price": 1.38551,
-      "signal": "WAIT",
-      "direction": "BEAR",
-      "conditions": {
-        "trend": false,
-        "channel": true,
         "macd": true,
         "mtf": true,
         "ses": false
@@ -74,22 +46,22 @@
       "conditions_met": 3
     },
     {
-      "symbol": "USDCHF",
-      "price": 0.80848,
-      "signal": "BUY",
+      "symbol": "AUDUSD",
+      "price": 0.7171,
+      "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
         "trend": true,
         "channel": true,
         "macd": true,
         "mtf": true,
-        "ses": true
+        "ses": false
       },
-      "conditions_met": 5
+      "conditions_met": 4
     },
     {
-      "symbol": "NZDUSD",
-      "price": 0.59179,
+      "symbol": "USDCAD",
+      "price": 1.38597,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -102,8 +74,36 @@
       "conditions_met": 2
     },
     {
+      "symbol": "USDCHF",
+      "price": 0.80894,
+      "signal": "WAIT",
+      "direction": "BULL",
+      "conditions": {
+        "trend": true,
+        "channel": true,
+        "macd": true,
+        "mtf": true,
+        "ses": false
+      },
+      "conditions_met": 4
+    },
+    {
+      "symbol": "NZDUSD",
+      "price": 0.59151,
+      "signal": "WAIT",
+      "direction": "BEAR",
+      "conditions": {
+        "trend": false,
+        "channel": true,
+        "macd": false,
+        "mtf": true,
+        "ses": true
+      },
+      "conditions_met": 3
+    },
+    {
       "symbol": "EURJPY",
-      "price": 185.578,
+      "price": 185.59399,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -117,21 +117,21 @@
     },
     {
       "symbol": "GBPJPY",
-      "price": 216.438,
+      "price": 216.494,
       "signal": "WAIT",
-      "direction": "BEAR",
+      "direction": "BULL",
       "conditions": {
-        "trend": false,
-        "channel": false,
-        "macd": false,
-        "mtf": true,
+        "trend": true,
+        "channel": true,
+        "macd": true,
+        "mtf": false,
         "ses": false
       },
-      "conditions_met": 1
+      "conditions_met": 3
     },
     {
       "symbol": "EURGBP",
-      "price": 0.8574,
+      "price": 0.85723,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
